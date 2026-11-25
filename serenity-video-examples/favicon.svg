@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <defs>
+    <radialGradient id="pearl" cx="30%" cy="22%" r="80%">
+      <stop offset="0" stop-color="#FFFFFF"/>
+      <stop offset="0.45" stop-color="#F1E3E8"/>
+      <stop offset="1" stop-color="#B9AAB8"/>
+    </radialGradient>
+  </defs>
+  <circle cx="32" cy="32" r="31" fill="url(#pearl)"/>
+  <text x="31" y="41" text-anchor="middle" fill="#1A1423" font-family="Georgia, serif" font-style="italic" font-size="33" letter-spacing="-4">NT</text>
+</svg>
